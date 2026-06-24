@@ -7,7 +7,7 @@ Add these links to your ad blocker to remove distracting elements from YouTube, 
 Add this to your ad blocker:
 
 ```
-https://raw.githubusercontent.com/jehan/focus-filter-lists/main/desktop.txt
+https://raw.githubusercontent.com/jehan593/focus-filter-lists/main/desktop.txt
 ```
 
 ## Mobile
@@ -15,5 +15,5 @@ https://raw.githubusercontent.com/jehan/focus-filter-lists/main/desktop.txt
 Add this to your ad blocker:
 
 ```
-https://raw.githubusercontent.com/jehan/focus-filter-lists/main/mobile.txt
+https://raw.githubusercontent.com/jehan593/focus-filter-lists/main/mobile.txt
 ```
