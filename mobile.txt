@@ -2,17 +2,18 @@
 ! For you tab
 x.com##div.css-175oi2r.r-14tvyh0.r-cpa5s6.r-16y2uox:nth-of-type(1) > .css-175oi2r.r-1awozwy.r-6koalj.r-eqz5dr.r-16y2uox.r-1iud8zs.r-1777fci.r-s8bhmr.r-ubg91z.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l
 
+! --- YouTube Music ---
 ! Home Page Suggestions
 music.youtube.com##.ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
 ! Suggestion in Play Lists
 music.youtube.com##ytmusic-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed
 
-! --- Youtube ---
+! --- YouTube ---
 ! Home Page Suggestions
 m.youtube.com##ytm-browse > ytm-single-column-browse-results-renderer > div > div[tab-identifier*="FEwhat_to_watch"]
 ! Watch Page Suggestions
 m.youtube.com##[section-identifier=related-items]
-! Full Screen More Vidoes Button
+! Full Screen More Videos Button
 m.youtube.com##.fullscreen-watch-next-entrypoint-wrapper
 ! Shorts Button Home Page
 m.youtube.com##.pivot-shorts.pivot-bar-item-tab
@@ -26,10 +27,6 @@ m.youtube.com##button.player-middle-controls-prev-next-button
 ! --- Reddit ---
 ! Top Left Navigation Section
 www.reddit.com##left-nav-top-section
-
-
-
-
 
 
 

@@ -2,17 +2,7 @@
 ! For you tab
 x.com##div.css-175oi2r.r-14tvyh0.r-cpa5s6.r-16y2uox:nth-of-type(1) > .css-175oi2r.r-1awozwy.r-6koalj.r-eqz5dr.r-16y2uox.r-1h3ijdo.r-1777fci.r-s8bhmr.r-3pj75a.r-1loqt21.r-o7ynqc.r-6416eg.r-1ny4l3l
 
-! --- YouTube Music ---
-! Home Page Suggestions
-! music.youtube.com##.ytmusic-shelf.style-scope.ytmusic-carousel-shelf-renderer
-! Suggestion in Play Lists
-! music.youtube.com##ytmusic-shelf-renderer.style-scope.ytmusic-section-list-renderer.fullbleed
-
 ! --- YouTube ---
-! Home Page Suggestions
-! youtube.com##ytd-browse[page-subtype*='home']
-! Watch Page Suggestions
-! www.youtube.com##ytd-item-section-renderer.style-scope.ytd-watch-next-secondary-results-renderer
 ! Side Bar Shorts Button
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
@@ -30,4 +20,3 @@ www.reddit.com##left-nav-top-section
 ! --- Facebook ---
 ! Home Page
 www.facebook.com##.x6o7n8i.x1unhpq9.x1hc1fzr > div > div
-

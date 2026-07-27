@@ -1,19 +1,26 @@
 # Focus Filter Lists
 
-Add these links to your ad blocker to remove distracting elements from YouTube, Twitter, Reddit, and more.
+Element-hiding filter lists for [uBlock Origin](https://ublockorigin.com/) and other AdGuard-syntax ad blockers. They hide distracting feeds, suggestions, and recommendations on YouTube, X (Twitter), Reddit, and Facebook.
 
-## Desktop
+## Usage
 
-Add this to your ad blocker:
+In your ad blocker's custom filter list settings, add the URL for your platform.
+
+**Desktop**
 
 ```
 https://raw.githubusercontent.com/jehan593/focus-filter-lists/main/desktop.txt
 ```
 
-## Mobile
-
-Add this to your ad blocker:
+**Mobile**
 
 ```
 https://raw.githubusercontent.com/jehan593/focus-filter-lists/main/mobile.txt
 ```
+
+## Sites covered
+
+- YouTube (including YouTube Music)
+- X (Twitter)
+- Reddit
+- Facebook
